@@ -6,7 +6,7 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-
+HTTPERROR_ALLOWED_CODES =[404]
 BOT_NAME = 'article_scraper'
 
 SPIDER_MODULES = ['article_scraper.spiders']
