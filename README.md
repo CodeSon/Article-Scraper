@@ -1,8 +1,9 @@
-# ETL Project with Web Crawler
+# ETL Project with Web Crawlers and Data Pipelines
 - Focus on Data Extraction and Data Storage Using:
 - Python's Scrapy framework
 - Xpath for crawling the HTML tags
 - Storing the extracted data into a CSV file
+- Pipe lines for data cleaning and date formating
 
 # Article-Scraper
 - Crawling wikipedia and scraping articles, urls and last updated time stamps of Keviv Bacon
